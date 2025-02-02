@@ -1,4 +1,5 @@
-QR Code Generator 
+QR Code Generator
+
 A fast and reliable QR Code Generator that transforms text, URLs, or other data into scannable QR codes. Perfect for businesses, developers, and individuals looking to create custom QR codes for various purposes.
 
 Features:
